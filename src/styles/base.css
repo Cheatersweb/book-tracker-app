@@ -16,8 +16,14 @@ h1 {
   font-size: 2.5rem;
   color: #007bff;
   margin-bottom: 20px;
+  letter-spacing: 3px;
 }
 
 p {
   margin: 5px;
+}
+
+a {
+  color: #eeeeee;
+  border-bottom: 1px solid #cccccc;
 }
